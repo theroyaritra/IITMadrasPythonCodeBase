@@ -1,0 +1,17 @@
+s=input()
+x=s.lower()
+a,e,i,o,u=x.find('a'),x.find('e'),x.find('i'),x.find('o'),x.find('u')
+out=''
+if(a>=0):
+    out=out+'a'
+if(e>=0):
+    out=out+'e'
+if(i>=0):
+    out=out+'i'
+if(o>=0):
+    out=out+'o'
+if(u>=0):
+    out=out+'u'
+if(a+e+i+o+u)<0:
+    out='none'
+print(out)

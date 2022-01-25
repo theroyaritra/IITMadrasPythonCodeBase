@@ -1,0 +1,11 @@
+a=str(input())
+if(len(a)%2==0):
+    if(a.endswith('.')):
+        x=a.rstrip('.')
+    else:
+        x=a+'.'
+else:
+    x=a
+m=int((len(x)-3)/2)
+#print(m)
+print(x[m:(m+3)])

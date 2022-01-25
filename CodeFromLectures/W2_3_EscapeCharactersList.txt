@@ -1,0 +1,14 @@
+Escape Sequence	Reference List:-
+\                                   Prints in new line
+\\	                                Prints Backslash (\)
+\'	                                Prints Single quote (')
+\"	                                Prints Double quote (")
+\a	                          ASCII Bell (BEL) - makes bell alert sounds
+\b	                   ASCII Backspace (BS) - removes previous Character
+\f	                                ASCII Formfeed (FF)
+\n	                                ASCII Linefeed (LF)
+\r	                                ASCII Carriage Return (CR)
+\t	                                ASCII Horizontal Tab (TAB)
+\v	                                ASCII Vertical Tab (VT)
+\ooo	                        Character with octal value ooo
+\xhh	                        Character with hex value hh
