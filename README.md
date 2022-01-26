@@ -1,5 +1,5 @@
 # IITMadrasPythonCodeBase
-This is a repository containing all the Python codes to important questions in assignments (both PPAs and GrPAs), Practice Tests and Programming exams in the IIT Madras Online B.Sc. Degree course.
+This is a repository containing all the Python codes to important questions in assignments (both PPAs and GrPAs), Practice Tests and Programming exams in the IIT Madras Online B.Sc. Degree course. **Also, most of the code demonstrated in the video lectures can also be found in the CodeFromLectures folder.**
 ## In my opinion, The most Important and/or difficult-to-solve problems in assignments are:-
 ### Week 1:-
 GrPA 6
