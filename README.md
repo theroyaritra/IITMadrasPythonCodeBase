@@ -20,5 +20,9 @@ PPA 5, PPA 7, PPA 8, PPA 9, PPA 10, GrPA3, GrPA 4, GrPA5
 PPA 6, PPA 10, All 4 GrPAs are important
 ### Week 7:- (Refresher Week)
 GrPA 1, GrPA3
+### Week 8:-
+PPA 5, PPA 7
+### Week 9:-
+PPA 6, PPA 9, PPA 10, GrPA 3, GrPA4
 ## Practice Tests and Mock Programming Exam OPPEs:-
 OPPE 5
