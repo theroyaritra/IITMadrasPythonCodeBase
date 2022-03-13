@@ -24,5 +24,7 @@ GrPA 1, GrPA3
 PPA 5, PPA 7
 ### Week 9:-
 PPA 6, PPA 9, PPA 10, GrPA 3, GrPA4
+### Week 10:-
+GrPA 3, GrPA 4
 ## Practice Tests and Mock Programming Exam OPPEs:-
 OPPE 5
